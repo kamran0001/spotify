@@ -7,9 +7,8 @@ DataBase Setup
 
 Node Setup
 ------------------
-1. Unzip file in spotify folder
-2. Open terminal and run command "npm i"
-3. Run project with command "nodemon start"
+1. Open terminal and run command "npm i"
+2. Run project with command "nodemon start"
 
 API
 ---------------
